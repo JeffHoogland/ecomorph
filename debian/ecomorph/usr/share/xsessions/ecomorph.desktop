@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=E17 - Ecomorph
+Comment=Log in using Ecomorph (Version 0.0.1)
+Comment[it]=Effettua accesso con Ecomorph (Versione 0.0.1)
+Type=XSession
+Icon=/usr/share/enlightenment/data/images/enlightenment.png
+Exec=/usr/bin/enlightenment_start.sh
+TryExec=/usr/bin/enlightenment_start.sh

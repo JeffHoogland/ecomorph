@@ -1,0 +1,5 @@
+ecomorph (20150408-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <Jeff Hoogland <jeffhoogland@linux.com>>  Wed, 08 Apr 2015 12:46:53 +0000

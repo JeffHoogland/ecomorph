@@ -1,0 +1,11 @@
+Package: ecomorph
+Version: 20150408-1
+Architecture: amd64
+Maintainer: root <Jeff Hoogland <jeffhoogland@linux.com>>
+Installed-Size: 3265
+Depends: efl, libc6 (>= 2.7)
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

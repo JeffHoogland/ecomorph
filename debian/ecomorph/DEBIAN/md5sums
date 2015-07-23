@@ -1,0 +1,12 @@
+bb197fa03719552bb6ec81c50b64c5e5  usr/bin/ecomp.sh
+e41d661a54557f869ba701a002c9bbe0  usr/bin/enlightenment_start.sh
+6c0bc12e6903422c32b56972cfb7c720  usr/lib/x86_64-linux-gnu/enlightenment/modules/ecomorph/e-module-ecomorph.edj
+809c9c4804402e6ab77ac1b55b482813  usr/lib/x86_64-linux-gnu/enlightenment/modules/ecomorph/linux-gnu-x86_64-0.17.6/module.a
+09c2921e9ac259365077a6784508a233  usr/lib/x86_64-linux-gnu/enlightenment/modules/ecomorph/linux-gnu-x86_64-0.17.6/module.la
+15eaade0a7e19db230f975e984144345  usr/lib/x86_64-linux-gnu/enlightenment/modules/ecomorph/linux-gnu-x86_64-0.17.6/module.so
+8820810ca04ad902139a91d9e932a857  usr/lib/x86_64-linux-gnu/enlightenment/modules/ecomorph/module.desktop
+e450da967a168c33cf1d19b9f5c07197  usr/share/doc/ecomorph/README
+660c2e2bbdcbc605c98ccf4573efdce6  usr/share/doc/ecomorph/README.Debian
+42290d5f69e4c8b43a49be016d997f19  usr/share/doc/ecomorph/changelog.Debian.gz
+f3f59b6d67ccc493c40ce94965172b13  usr/share/doc/ecomorph/copyright
+c7c8fb19eb9241a8f28d98f9c26d4893  usr/share/xsessions/ecomorph.desktop

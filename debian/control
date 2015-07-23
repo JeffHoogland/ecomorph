@@ -1,0 +1,15 @@
+Source: ecomorph
+Section: unknown
+Priority: optional
+Maintainer: root <Jeff Hoogland <jeffhoogland@linux.com>>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/ecomorph.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/ecomorph.git;a=summary
+
+Package: ecomorph
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Ecomorph Moksha Module
+ The Moksha module for the Ecomorph compositor. Includes configuration panel.

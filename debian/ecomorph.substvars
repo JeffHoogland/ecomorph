@@ -1,0 +1,3 @@
+misc:Pre-Depends=multiarch-support
+shlibs:Depends=efl, libc6 (>= 2.7)
+misc:Depends=
