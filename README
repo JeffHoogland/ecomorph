@@ -3,7 +3,7 @@ It consists of the ecomorph module for Moksha and [ecomp](https://github.com/Jef
 
 1. install [Moksha](https://github.com/JeffHoogland/moksha)
 2. install [ecomp](https://github.com/JeffHoogland/ecomp)
-3. install ecomorph module.. from there where this REAME file comes from 
+3. install ecomorph module.. from there where this README file comes from 
 4. load ecomorph module
 5. in main menu -> settings choose ecomorph
 6. click 'start ecomp'
